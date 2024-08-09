@@ -1,1 +1,1 @@
-# genai_using_llamaIndex
+# GenAI_using_LLAMA_INDEX
